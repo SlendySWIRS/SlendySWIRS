@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ## Thanks for reading ❤️
 
-![:aikocount](https://count.getloli.com/get/@aiko-chan-ai?theme=rule34)
+![:aikocount](https://count.getloli.com/get/@SlendySWIRS?theme=rule34)
