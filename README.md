@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Slendy here 👋
 
 <!--
 **SlendySWIRS/SlendySWIRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Aspiring computer scientist
+- Playing games every now and then :)
 
 ## Commits
 
