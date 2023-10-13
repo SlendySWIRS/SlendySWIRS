@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Commits
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SlendySWIRS/SlendySWIRS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/SlendySWIRS/SlendySWIRS/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+WIP
 
 ## Thanks for reading ❤️
 
